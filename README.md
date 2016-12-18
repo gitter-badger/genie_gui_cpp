@@ -10,3 +10,4 @@ PyQt made application to simplify the creation of the LUA file that genie use to
 ##Tasks List##
 - [ ] user should not put "" and , in *Flags*, *Links* nor *Defines*
 - [ ] application sould be a standalone single file
+- [ ] the app generates a BATCH file that generates a VS soltion
