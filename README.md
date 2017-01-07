@@ -1,4 +1,6 @@
 # GenieGUI (C++)
+
+[![Join the chat at https://gitter.im/tonimarquez84/genie_gui_cpp](https://badges.gitter.im/tonimarquez84/genie_gui_cpp.svg)](https://gitter.im/tonimarquez84/genie_gui_cpp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PyQt made application to simplify the creation of the LUA file that genie use to generate a solution fo VS
 
 ##Overview##
